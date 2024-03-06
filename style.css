@@ -48,7 +48,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /* background-color: var(--purple-1); */
+    /* background-color: var(--purple-1); 11*/
 }
 h1{
     font-family: var(--heading-font);
